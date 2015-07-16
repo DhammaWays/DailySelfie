@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SelfieActivity">
+    <item android:id="@+id/action_selfie"
+        android:icon="@drawable/cameraicon"
+        android:title="@string/action_selfie"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_setalarm"
+        android:title="@string/action_setalarm"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_cancelalarm"
+        android:title="@string/action_cancelalarm"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_deleteallselfies"
+        android:title="@string/action_deleteallselfies"
+        android:showAsAction="never" />
+</menu>

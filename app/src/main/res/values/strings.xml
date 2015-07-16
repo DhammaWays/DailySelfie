@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="action_selfie">Take Selfie</string>
+    <string name="album_name">DailySelfie</string>
+    <string name="action_setalarm">Set Reminder</string>
+    <string name="action_cancelalarm">Cancel Reminder</string>
+    <string name="action_deleteallselfies">Delete ALL Selfies</string>
+    <string name="item_cntxt_delete">Delete the selfie!</string>
+</resources>
